@@ -10,7 +10,7 @@ El diseño toma como referencia mi banner profesional: una paleta azul noche y v
 - **Proyectos:** ViewBrain, GanaderIA, gemelo digital para cirugía laparoscópica, plataforma de competencias investigativas, riego antiheladas y Eco-Systemic.
 - **Experiencia y liderazgo:** práctica en el Colegio de Ingenieros del Perú — Consejo Departamental Junín, experiencia en desarrollo de software y participación en ANEIMERA UNCP e IEEE Computer Society.
 - **Habilidades:** desarrollo web, Python, PHP, Node.js, inteligencia artificial, ROS, Unity, Arduino, IoT, Huawei Cloud e investigación.
-- **Contacto:** [tatianaoseda21@ieee.org](mailto:tatianaoseda21@ieee.org).
+- **Contacto:** [tatianaoseda21@ieee.org](mailto:tatianaoseda21@gmail.com).
 
 ## Ver el sitio
 
